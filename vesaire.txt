@@ -1,0 +1,11 @@
+
+SUBVERSION ve GIT version kontrol sistemleri için windows kabuk eklentileri (shell integration)
+SVN : http://tortoisesvn.net/
+GIT : https://code.google.com/p/tortoisegit/
+
+Subversion (SVN)
+http://subversion.apache.org/
+
+Git
+https://git-scm.com/
+https://git-scm.com/download/win
