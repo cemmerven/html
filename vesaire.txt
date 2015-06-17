@@ -9,3 +9,47 @@ http://subversion.apache.org/
 Git
 https://git-scm.com/
 https://git-scm.com/download/win
+
+-------------------------------------------------------------------------------
+
+Türkçe joel-on-software
+http://turkish.joelonsoftware.com/
+
+Steve Krug, Kullanýþlý web siteleri yaratma (dont make me think)
+türkçe : http://www.kitapyurdu.com/kitap/kullanisli-web-siteleri-yaratma/89507.html
+english: http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758
+
+Jacob Nielsen - Alertbox articles (Usability)
+http://www.nngroup.com/articles/
+https://en.wikipedia.org/wiki/Usability
+https://tr.wikipedia.org/wiki/Kullan%C4%B1labilirlik_ve_etkile%C5%9Fim_tasar%C4%B1m%C4%B1
+
+Göz takibi çalýþmalarý (eye tracking studies); "F" biçimli gözatma
+http://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/
+https://blog.kissmetrics.com/eye-tracking-studies/
+
+Web Authoring Statistics: Elements and attributes
+https://developers.google.com/webmasters/state-of-the-web/2005/elements
+
+HTML Version Statistics
+http://try.powermapper.com/Stats/HtmlVersions
+
+Encyclopedia of HTML elements (77 most used)
+https://friendlybit.com/html/encyclopedia-of-html-elements/
+
+Html usage stats
+http://webmasters.stackexchange.com/questions/11406/recent-statistics-on-html-usage-in-the-wild
+
+You only need 10 tags
+http://www.99lime.com/_bak/topics/you-only-need-10-tags/
+
+-------------------------------------------------------------------------------
+
+Xenu's Link Sleuth
+http://home.snafu.de/tilman/xenulink.html
+
+Fiddler (http protokolü hata ayýklayýcýsý)
+http://www.telerik.com/fiddler
+http://www.telerik.com/download/fiddler/fiddler4
+
+-------------------------------------------------------------------------------
