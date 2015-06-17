@@ -53,3 +53,18 @@ http://www.telerik.com/fiddler
 http://www.telerik.com/download/fiddler/fiddler4
 
 -------------------------------------------------------------------------------
+
+SCM (software configuration management)
+ticari: 
+   JIRA
+   https://www.atlassian.com/software/jira
+
+   açýk kaynak kodlu:
+
+   TRAC
+   http://trac.edgewall.org/
+
+   REDMINE
+   http://www.redmine.org/
+
+-------------------------------------------------------------------------------
