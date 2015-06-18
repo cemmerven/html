@@ -59,8 +59,7 @@ ticari:
    JIRA
    https://www.atlassian.com/software/jira
 
-   açýk kaynak kodlu:
-
+açýk kaynak kodlu:
    TRAC
    http://trac.edgewall.org/
 
