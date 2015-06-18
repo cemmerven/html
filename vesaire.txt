@@ -67,3 +67,7 @@ açýk kaynak kodlu:
    http://www.redmine.org/
 
 -------------------------------------------------------------------------------
+
+\\sunucu\DEPO\PROGRAMLAR\HTML 
+k: bilimsel
+p: bilimsel
