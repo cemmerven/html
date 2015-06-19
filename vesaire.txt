@@ -1,4 +1,10 @@
 
+\\sunucu\DEPO\PROGRAMLAR\HTML 
+kullanýcý: bilimsel
+parola   : bilimsel
+
+-------------------------------------------------------------------------------
+
 SUBVERSION ve GIT version kontrol sistemleri için windows kabuk eklentileri (shell integration)
 SVN : http://tortoisesvn.net/
 GIT : https://code.google.com/p/tortoisegit/
@@ -68,6 +74,85 @@ açýk kaynak kodlu:
 
 -------------------------------------------------------------------------------
 
-\\sunucu\DEPO\PROGRAMLAR\HTML 
-k: bilimsel
-p: bilimsel
+HTML, Yetkin Kaynaklar (authoritative resources)
+Türkçe 
+   https://developer.mozilla.org/tr/docs/Web
+
+Living standart (Yaþayan standart)
+   http://html.spec.whatwg.org
+
+The World Wide Web Consortium (W3C)
+   http://w3.org   
+   
+-------------------------------------------------------------------------------
+
+Firefox eklentileri
+
+View Source Chart 
+   https://addons.mozilla.org/en-us/firefox/addon/view-source-chart/
+   
+User Agent Switcher
+   https://addons.mozilla.org/en-us/firefox/addon/user-agent-switcher/
+   
+Firebug
+   https://addons.mozilla.org/en-us/firefox/addon/firebug/
+
+-------------------------------------------------------------------------------
+ 
+Adlandýrlýmýþ karakter baþvurusu 
+Named character reference (html entities)
+
+http://dev.w3.org/html5/html-author/charref
+
+http://www.w3.org/html/wg/drafts/html/master/syntax.html#named-character-references 
+
+http://www.w3schools.com/html/html_entities.asp
+
+-------------------------------------------------------------------------------
+
+Karakter kodlama
+
+Choosing & applying a character encoding
+  https://www.w3.org/International/questions/qa-choosing-encodings
+
+-------------------------------------------------------------------------------
+
+UTF-8 (Unicode Transformation Format 8-bit)
+
+türkçe
+  https://en.wikipedia.org/?title=UTF-8
+
+english
+  https://tr.wikipedia.org/?title=UTF-8
+
+-------------------------------------------------------------------------------
+
+HTML'e giriþ
+
+English
+   https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+
+Türkçe(?)
+   https://developer.mozilla.org/tr/docs/Web/Guide/HTML/Introduction
+
+-------------------------------------------------------------------------------
+
+Meta tags
+  http://www.w3schools.com/tags/tag_meta.asp
+  
+  http://www.sitepoint.com/meta-tags-html-basics-best-practices/
+  http://searchenginewatch.com/sew/how-to/2067564/how-to-use-html-meta-tags
+
+Title tags  
+  http://searchenginewatch.com/sew/how-to/2154469/write-title-tags-search-engine-optimization
+
+-------------------------------------------------------------------------------
+  
+html elemanlarý arasý ortak nitelikler (html attributes)
+   https://developer.mozilla.org/en/docs/Web/HTML/Global_attributes  
+   
+Tüm html nitelikleri (attributes)   
+   https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes   
+  
+-------------------------------------------------------------------------------
+  
