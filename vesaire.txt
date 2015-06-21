@@ -116,15 +116,18 @@ Karakter kodlama
 Choosing & applying a character encoding
   https://www.w3.org/International/questions/qa-choosing-encodings
 
+BOM (Byte Order Mark)  
+  http://www.w3.org/International/questions/qa-byte-order-mark.en.php
+  
 -------------------------------------------------------------------------------
 
 UTF-8 (Unicode Transformation Format 8-bit)
 
 türkçe
-  https://en.wikipedia.org/?title=UTF-8
+  https://tr.wikipedia.org/?title=UTF-8
 
 english
-  https://tr.wikipedia.org/?title=UTF-8
+  https://en.wikipedia.org/?title=UTF-8
 
 -------------------------------------------------------------------------------
 
