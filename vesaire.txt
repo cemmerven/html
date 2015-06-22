@@ -151,7 +151,9 @@ Title tags
   http://searchenginewatch.com/sew/how-to/2154469/write-title-tags-search-engine-optimization
 
 -------------------------------------------------------------------------------
-  
+
+Html Nitelikleri (Attributes)
+
 html elemanlarý arasý ortak nitelikler (html attributes)
    https://developer.mozilla.org/en/docs/Web/HTML/Global_attributes  
    
@@ -159,4 +161,19 @@ Tüm html nitelikleri (attributes)
    https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes   
   
 -------------------------------------------------------------------------------
-  
+
+Tipografi: Lorem Ipsum  
+   http://tr.lipsum.com/  
+
+-------------------------------------------------------------------------------
+   
+Layout
+   http://learnlayout.com/no-layout.html   
+   
+-------------------------------------------------------------------------------
+
+Çevrimiçi html, css, javascript "deneme tahtalarý"
+   http://jsbin.com/
+   https://jsfiddle.net/
+   http://liveweave.com/   
+   http://codepen.io/
