@@ -3,6 +3,9 @@
 kullanýcý: bilimsel
 parola   : bilimsel
 
+videolar
+\\sunucu\DEPO\VIDEOLAR\HTML_5_TR
+
 -------------------------------------------------------------------------------
 
 SUBVERSION ve GIT version kontrol sistemleri için windows kabuk eklentileri (shell integration)
