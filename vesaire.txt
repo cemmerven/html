@@ -184,6 +184,11 @@ Layout
 -------------------------------------------------------------------------------
    
 Ýþlevine göre html elemanlarý   
-http://w3c.github.io/html-reference/elements-by-function.html#sections-elements   
+   http://w3c.github.io/html-reference/elements-by-function.html#sections-elements   
+
+-------------------------------------------------------------------------------
+
+Chrome Web Developer Extension
+   https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm/related
 
 -------------------------------------------------------------------------------
