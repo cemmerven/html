@@ -180,3 +180,10 @@ Layout
    https://jsfiddle.net/
    http://liveweave.com/   
    http://codepen.io/
+   
+-------------------------------------------------------------------------------
+   
+Ýþlevine göre html elemanlarý   
+http://w3c.github.io/html-reference/elements-by-function.html#sections-elements   
+
+-------------------------------------------------------------------------------
