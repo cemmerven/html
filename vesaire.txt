@@ -1,4 +1,6 @@
 
+ozan.kilicoglu@gmail.com
+
 \\sunucu\DEPO\PROGRAMLAR\HTML 
 kullanýcý: bilimsel
 parola   : bilimsel
@@ -198,3 +200,26 @@ Color
    http://zoltanb.co.uk/how-to-calculate-the-perceived-brightness-of-a-colour/
    
 -------------------------------------------------------------------------------
+
+sliders
+
+javascript owl carousel, content rotator, image gallery
+
+Touch enabled jQuery plugin that lets you create beautiful responsive
+carousel slider.
+http://owlgraphic.com/owlcarousel/index.html
+
+Camera : javascript carousel,  image - video gallery, responsive,
+transition time progress bar, overlay content, jquery mobile
+by pixedelic
+http://www.pixedelic.com/plugins/camera/
+
+VenoBox (lightbox plug-in)
+VenoBox calculates the max width of the image displayed and preserves
+its height if is taller than the window (so in small devices you can
+scroll down the content, avoiding vertical microscopic resized
+images).
+http://lab.veno.it/venobox/
+
+Responsive jQuery Content Slider (photo, video, html)
+http://bxslider.com/
