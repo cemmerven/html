@@ -192,3 +192,9 @@ Chrome Web Developer Extension
    https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm/related
 
 -------------------------------------------------------------------------------
+
+Color
+   http://www.colourlovers.com/blog/2007/09/02/the-muller-formula-or-predictable-color-preferences/
+   http://zoltanb.co.uk/how-to-calculate-the-perceived-brightness-of-a-colour/
+   
+-------------------------------------------------------------------------------
