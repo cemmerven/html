@@ -223,3 +223,11 @@ http://lab.veno.it/venobox/
 
 Responsive jQuery Content Slider (photo, video, html)
 http://bxslider.com/
+
+/------------------------------------------------------------------------------
+
+floats
+   https://css-tricks.com/all-about-floats/
+
+/------------------------------------------------------------------------------
+
